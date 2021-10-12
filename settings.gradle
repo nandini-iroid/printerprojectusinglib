@@ -1,0 +1,3 @@
+rootProject.name = "DemoData"
+include ':app'
+include ':printama'
